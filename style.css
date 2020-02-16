@@ -1,5 +1,9 @@
-* {
+* {    
   box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
@@ -45,6 +49,7 @@ p {
     display: inline-block;
     vertical-align: top;
     padding: 0 25px;
+    box-sizing: border-box;
   }
 
   img {
